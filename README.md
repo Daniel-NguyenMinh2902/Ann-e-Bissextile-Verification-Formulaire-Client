@@ -1,4 +1,5 @@
 # Ann-e-Bissextile-Verification-Formulaire-Client
+# Créer un site Web en utilisant HTML, CSS, Bootstrap et Javascript 
 Partie 1: 
 • Un nouveau projet web avec l’arborescence et les balises de base de 
 l’HTML, le code doit être systématiquement commenté
@@ -23,4 +24,4 @@ un objet « client »
 • L’objet « client » contiendra une méthode « presentation » qui affiche dans une 
 alert() le texte suivant : « Bonjour, je suis [Civilité] [Prénom] [Nom], vous pouvez 
 me contacter sur [Email] ou au [Téléphone] »
-• La méthode « presentation » devra être exécutée à la fin de votre script
+• La méthode « presentation » devra être exécutée à la fin de script
